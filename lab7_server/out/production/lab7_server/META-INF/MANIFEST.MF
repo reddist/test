@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lab4.jar, javax.mail-1.6.2.jar, postgresql-42.2.5.jar
+Main-Class: Main
+
